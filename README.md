@@ -1,5 +1,5 @@
 # MARBLE GAME UPGRADE
-This is an upgrade to the Marble Game which is originally designed by Mike Hergaarden from M2H for Unity game tutorials. I have upgraded the game for BBM423 Game Technologies Laboratory course at Hacettepe University.
+This is an upgrade to the Marble Game which is originally designed by Mike Hergaarden from M2H for Unity game tutorials. I have upgraded the game for BBM423 Game Technologies Laboratory course at Hacettepe University. The game is developed with Unity and C#.
 # Description
 ![](https://user-images.githubusercontent.com/26528131/42181029-16581f72-7e42-11e8-82f0-557515d8c0a0.png)
 Marble Game is a balancing game where you guide a rolling 'ball' through a level while collecting items. This is a 3D game which has a game manager that keeps track of game states (Playing, Won, Lost).
